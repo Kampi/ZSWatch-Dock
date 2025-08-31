@@ -1,7 +1,6 @@
 # ZSWatch-Dock
 
 [![License](https://img.shields.io/badge/License-GPL%203.0-blue.svg)](https://opensource.org/license/gpl-3-0/)
-[![Build](https://github.com/Kampi/ZSWatch-Dock/actions/workflows/build.yml/badge.svg)](https://github.com/Kampi/ZSWatch-Dock/actions/workflows/build.yml)
 
 ## 📑 Table of Contents
 
